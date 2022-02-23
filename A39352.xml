@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joannis Miltoni Sententiæ potestati regiæ adversantis refutatio cui annexæ sunt, Animadversiones in execrabilem libellum, cui titulus est, "Joannis Miltoni Angli defensio secunda contra infamem libellum anonymum, cui titulus, Regii sanguinis clamor ad cœlum adversus parricidas anglicanos / authore Edmundo Elisio ...</title>
+            <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39352</idno>
+            <idno type="STC">Wing E675B</idno>
+            <idno type="STC">ESTC R10457</idno>
+            <idno type="EEBO-CITATION">12999697</idno>
+            <idno type="OCLC">ocm 12999697</idno>
+            <idno type="VID">96463</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96463)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 183:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joannis Miltoni Sententiæ potestati regiæ adversantis refutatio cui annexæ sunt, Animadversiones in execrabilem libellum, cui titulus est, "Joannis Miltoni Angli defensio secunda contra infamem libellum anonymum, cui titulus, Regii sanguinis clamor ad cœlum adversus parricidas anglicanos / authore Edmundo Elisio ...</title>
+                  <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+                  <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Typis J.M., impensis R. Wilkin ...,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Milton, John, 1608-1674. --  Pro populo Anglicano defensio secunda.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:96463:1"/>
+            <pb facs="tcp:96463:1"/>
+            <p>JOANNIS MILTONI Sententiae Poteſtati REGIAE Adverſantis Refutatio, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:96463:2"/>
+               <pb facs="tcp:96463:2"/>
+               <hi>JOANNIS MILTONI</hi> Sententiae Poteſtati REGIAE Adverſantis Refutatio.</p>
+            <p>Cui Annexae ſunt, ANIMADVERSIONES IN Execrabilem Libellum, Cui Titulus eſt, <q>
+                  <hi>Joannis Miltoni</hi> Angli Defenſio Secunda Con<g ref="char:EOLhyphen"/>tra infamem Libellum anonymum, cui Ti<g ref="char:EOLhyphen"/>tulus, Regii Sanguinis Clamor ad Coelum adverſus Parricidas Anglicanos.</q>
+            </p>
+            <p>Authore EDMUNDO ELISIO, <hi>Coll. Ball.</hi> apud OXONIENSES quondam Socio.</p>
+            <p>
+               <hi>LONDINI:</hi> Typis <hi>J. M.</hi> Impenſis <hi>R. Wilkin,</hi> ad Inſigne Capitis Regis in Coemeterio D. Pauli, 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96463:3"/>
+            <pb n="5" facs="tcp:96463:3"/>
+            <div type="part">
+               <head>JOANNIS MILTONI Sententiae Poteſtati REGIAE Adver<g ref="char:EOLhyphen"/>ſantis Refutatio.</head>
+               <p>COgitanti Mihi quàm Argutum agat <hi>Sophi<g ref="char:EOLhyphen"/>ſtam,</hi> Probitatis eximiae ſpeciem praeferens, Dirus iſte REGUM Inimicus MILTONUS, Mei eſſe erga Auctoritatem REGIAM Of<g ref="char:EOLhyphen"/>ficii videtur Laeſae Omnium <hi>Monarcharum Majeſtatis</hi> Reo, debitam Infamiae Notam inurere: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Nullus dubito quin aequo conſtet Lectori non opus eſſe ut perſequar hunc hominem per tot <hi>Ambages ex Hiſtoriolis &amp; Poematum Fragmentis</hi> compo<g ref="char:EOLhyphen"/>ſitas. Placet mihi non <hi>Copiam &amp; Ornamenta Verborum,</hi> ſed <hi>Nudam Veritatem</hi> Execrabili <hi>Miltoni</hi> iſtius Dog<g ref="char:EOLhyphen"/>mati Oppoſitam Paucis verbis oſtendere.</p>
+               <p>
+                  <q>
+                     <bibl>Dicet aliquis, inquit Cap. 2.</bibl> Regem oportet quidem Leges, ut qui maximè, obſervare, verum ſi ſecus fecerit, quâ Lege puniendus? eâdem, inquam, Lege quâ Caeteri; exceptiones enim nullas re<g ref="char:EOLhyphen"/>perio.</q>
+               </p>
+               <p>Monſtrum Impudentiae horrendum! EADEM IN<g ref="char:EOLhyphen"/>QUAM LEGE QUA CAETERI? Haec ſunt ipſiſſima Clariſſimi BRACTONI verba, quae recitat Vir ille planè <hi>Heroicus</hi> D. JENKINSIUS in eximio Libello cui Titulus eſt, <hi>Lex Terrae. Lond. Edit.</hi> 1648.
+<q>
+                     <pb n="6" facs="tcp:96463:4"/>
+Omnis ſub Rege, Ipſe ſub Nullo: non eſt Inferior Sibi Subjectis, non Parem habet in Regno ſuo. Rex non habet Superiorem, niſi Deum; ſatis habet ad Poenam, quod Deum expectet Ultorem.</q>
+               </p>
+               <p>
+                  <q>Illud <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, inquit <hi>Miltonus,</hi> id eſt à nemine pendere, nulli mortalium rationem reddere, quod tu Regiae Majeſtatis maximè proprium eſſe ais, <hi>Ariſtoteles</hi> Polit. 4. 10. maximè Tyrannicum, &amp; in Liberá Natione minimè ferendum eſſe affirmat.</q>
+               </p>
+               <p>
+                  <hi>Reſp.</hi> Verba <hi>Aristotelis</hi> haec ſunt: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ariſtoteles</hi> iſtiuſmodi <hi>Dominium</hi> de quo loquitur non vocat <hi>Tyrannidem</hi> eò quòd <hi>Do<g ref="char:EOLhyphen"/>minus</hi> ſit <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſed quòd <hi>Dominatio</hi> in Similes ſeu Aequales, imò &amp; in omnes, qui ſunt ipſo <hi>Domi<g ref="char:EOLhyphen"/>nante</hi> praeſtantiores. <hi>Ariſtoteles Polit.</hi> Lib. 3. Cap. II. haec verba habet <hi>Cedro digna:</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <q>Ut Oeconomia Familiae quoddam Regnum eſt, ſic Regnum Civitatis, &amp; Gentis unius, aut multarum Oeconomia eſt quaedam.</q>
+               </p>
+               <p>An ſit aequum, <hi>Miltone,</hi> ut <hi>Patres Familiarum,</hi> ſi Pec<g ref="char:EOLhyphen"/>cant, poenis afficiantur à <hi>Domeſticis,</hi> ab <hi>
+                     <g ref="char:V">Ʋ</g>xore, Filiis, vel Servis?</hi> Quis niſi Mentis inops credidiſſet iſtam fuiſſe <hi>Aristotelis ſententiam,</hi> nempe Eâdem Lege, quâ cae<g ref="char:EOLhyphen"/>teri Delinquentes puniuntur, REGEM ipſum Delin<g ref="char:EOLhyphen"/>quentem eſſe Puniendum? <hi>Philoſophus ille</hi> celeberrimus <hi>Ethic. ad Nicomachum</hi> Lib. 5. Cap. 5. aliis verbis pro<g ref="char:EOLhyphen"/>fert ſententiam inſanae <hi>Miltoni</hi> ſententiae de REGE Puniendo adverſantem: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Tam in Perſonae Sereniſſimi REGIS CAROLI <hi>Primi</hi> Charactere formando, quàm in JURE REGIO Explicando ſe praeſtitit <hi>Miltonus</hi> Veritatis ſtudioſiſſi<g ref="char:EOLhyphen"/>mum. <q>
+                     <bibl>Tune, inquit Cap. 4.</bibl> Carolum cum Davi<g ref="char:EOLhyphen"/>de, Regem &amp; Prophetam Religioſiſſimum cum
+<pb n="7" facs="tcp:96463:4"/>
+Superſtitioſo, &amp; Doctrinae Chriſtianae vix initiato, Sapientiſſimum cum Stolido, Fortiſſimum cum Im<g ref="char:EOLhyphen"/>belli, Juſtiſſimum cum Iniquiſſimo conferre ſuſti<g ref="char:EOLhyphen"/>nuiſti?</q>
+               </p>
+               <p>Quàm ſit <hi>Fide</hi> dignus Regicidarum Defenſor Judi<g ref="char:EOLhyphen"/>cent Lectores <hi>Aequi Boni<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> Amantes. Neceſſe eſt ut CAROLUM Verè CHRISTIANISSIMUM <hi>Genii</hi> INFERNI Summo Odio proſequantur. CA<g ref="char:EOLhyphen"/>ROLUM Vituperando Didicit MILTONUS <hi>Poeta</hi> Repraeſentare SATANAE Perſonam <hi>Blaſphemias</hi> evo<g ref="char:EOLhyphen"/>mentis in DEUM.</p>
+               <p>Virorum Illuſtrium BRACTONI, &amp; FOR<g ref="char:EOLhyphen"/>TESCUII Sententias, quas <hi>Antimonarchici Nebu<g ref="char:EOLhyphen"/>lones</hi> pervertere conantur, accuratiùs explicandas in me ſuſcipio. BRACTON. <q>Rex habet Superiorem Deum, item Legem, per quam factus eſt Rex, item Curiam ſuam, nempe Comites, &amp; Barones.</q> Ex hiſce verbis, <hi>per quam factus est Rex,</hi> minimè ſequitur Poteſtatem <hi>Regi ANGLICANO</hi> à <hi>Populo</hi> eſſe Do<g ref="char:EOLhyphen"/>natam, ſed ab Illo <hi>Rege</hi> Anteceſſore proveniſſe, qui Sanxit Legem, per quam in Illum Derivata eſt <hi>Regia</hi> Poteſtas. Nullum <hi>Legis Executorem</hi> Rex habet Supe<g ref="char:EOLhyphen"/>riorem praeter DEUM: <hi>Legem</hi> habet Superiorem ut Regulam, ſeu Normam Imperandi: Si Legem vio<g ref="char:EOLhyphen"/>laverit Neceſſe eſt (&amp; pluſquam <hi>Regium est Neceſſi<g ref="char:EOLhyphen"/>tatis Imperium)</hi> ut DEUM Expectet Ultorem. Ob hanc rationem Dicit Vir Prudentiſſimus Regem ha<g ref="char:EOLhyphen"/>bere Curiam <hi>Superiorem,</hi> quod <hi>Curiae</hi> ſeu <hi>Comitum,</hi> ac <hi>Baronum</hi> Officium ſit Ipſum Monere, ut ſecundum Legem Regiam exerceat Poteſtatem, nempe ut Cogat Subditos Legi Obſequium praeſtare, nec aliquid un<g ref="char:EOLhyphen"/>quam fieri Jubeat Legi Adverſum. <q>Comites, in<g ref="char:EOLhyphen"/>quit, dicuntur quaſi Socii Regis, &amp; qui habet So<g ref="char:EOLhyphen"/>cium, habet Magiſtrum: &amp; ideo ſi Rex fuerit ſine Fraeno, <hi>i. e.</hi> ſine Lege, debent ei Fraenum ponere.</q>
+               </p>
+               <p>Fraenum ponere, ſcilicet Monendo, ut <hi>Imperata</hi> ejus, ſeu <hi>Mandata</hi> omnia ſint <hi>Legibus</hi> conformia. <hi>Socius</hi>
+                  <pb n="8" facs="tcp:96463:5"/>
+certè hujuſmodi eſt <hi>Magiſter,</hi> qui <hi>Monet</hi> tantum, ſeu Docet quid ſit <hi>
+                     <g ref="char:V">Ʋ</g>tile,</hi> &amp; <hi>Honeſtum,</hi> non qui <hi>Jubet</hi> aut <hi>Imperat.</hi>
+               </p>
+               <p>
+                  <q>
+                     <bibl>FORTESCUII <hi>De Laudibus Legum Angliae,</hi> Cap. 13. haec ſunt Verba:</bibl> Ad Tutelam Legis Sub<g ref="char:EOLhyphen"/>ditorum, ac eorum Corporum, &amp; bonorum, Rex hu<g ref="char:EOLhyphen"/>juſmodi erectus eſt, &amp; ad hanc (Tutelam) Poteſta<g ref="char:EOLhyphen"/>tem à Populo effluxam Ipſe habet, quò ei non licet Poteſtate aliâ ſuo Populo dominari.</q> Rex hujuſ<g ref="char:EOLhyphen"/>modi erectus eſt ad <hi>Tutelam Legis, Legis nimirum Fun<g ref="char:EOLhyphen"/>damentalis,</hi> ſeu ipſius Regni Angliae Conſtitutionis <hi>Po<g ref="char:EOLhyphen"/>teſtatem à Populo effluxam Ipſe habet,</hi> ſcilicet à Populo Aſſentiente ut Ipſe <hi>Sanciat</hi> iſtiuſmodi <hi>Leges ſeu Con<g ref="char:EOLhyphen"/>ſtitutiones</hi> Politicas, quibus opus eſt ad Suam, &amp; Sub<g ref="char:EOLhyphen"/>ditorum Salutem conſervandam. <q>Non alium eſſe Senſum Vocum iſtarum, <hi>à Populo effluxam,</hi> conſtat ex hâc Sententiâ quae occurrit in Capite Nono: Nec Leges Ipſe ſine Subditorum Aſſenſu Mutare poterit.</q> Omnibus in confeſſo eſt Ejuſdem eſſe <hi>Condere ac Mutare Leges. Angliae Principatum Regalem</hi> vocat Vir Clariſſi<g ref="char:EOLhyphen"/>mus, eo quòd <hi>Principis</hi> Officium eſt <hi>Leges Condere, ac Mutare; Politicum</hi> etiam vocat, quia <hi>Princeps</hi> non po<g ref="char:EOLhyphen"/>teſt hoc Exequi Officium ſine <hi>Subditorum Aſſenſu.</hi> Ni<g ref="char:EOLhyphen"/>mirum Rex Solus Legis Autor eſt, ſeu <hi>Cauſa propriè Efficiens,</hi> Populus <hi>Cauſa</hi> (ut <hi>Logici</hi> loquuntur) <hi>Sine quâ Non.</hi> In iſto Tractatu celeberrimo cui Titulus eſt, <hi>Fleta,</hi> Lib. 1. C. 5. haec ſunt verba noſtrae huic Sen<g ref="char:EOLhyphen"/>tentiae maximè conſentanea. <q>Non quod Principi placet Legis habet Poteſtatem. Non quicquid de Voluntate Regis, ſed quod Magnatum ſuorum Con<g ref="char:EOLhyphen"/>ſilio REGIA AUTORITATE praeſtante, &amp; habitâ ſuper hoc Deliberatione, &amp; Tractatu rectè fuerit Definitum.</q> Contradictionem implicat Eſſe Aliam in <hi>Monarchiâ</hi> Autoritatem, niſi quae ſit in Prin<g ref="char:EOLhyphen"/>cipe, vel à Principe Derivata, &amp; pendens ab Illo, ut <hi>à Sole Radius.</hi> Itaque falſiſſima eſt iſta Suppoſitio <hi>Re<g ref="char:EOLhyphen"/>gem apud Anglos non eſſe Solum Legiſlatorem.</hi> Sed
+<pb n="9" facs="tcp:96463:5"/>
+aequiſſimum eſt ut <hi>Reges</hi> diligentiſſimè obſervent, quas ſibi praeſcribunt Leges, ſeu <hi>Gubernandi Regulas.</hi> Ore<g ref="char:EOLhyphen"/>mus igitur DEUM OPT. MAX. ut BRITAN<g ref="char:EOLhyphen"/>NIAE Reges uſque <hi>ad Conſummationem Seculi</hi> Se om<g ref="char:EOLhyphen"/>nibus oſtendant Terrarum Incolis hanc Optimam Sen<g ref="char:EOLhyphen"/>tentiam imis medullis infixam tenere. CODICIS Lib. 1. Tit. 14. 4 Impp. THEOD. &amp; VALENT. <q>Dig<g ref="char:EOLhyphen"/>na Vox eſt Majeſtate Regnantis, Legibus alligatum ſe Principem profiteri: Adeo de Auctoritate Juris noſtra pendet Auctoritas.</q> Et reverà Majus Impe<g ref="char:EOLhyphen"/>rio eſt Submittere Legibus Principatum.</p>
+               <p>De Officio SUBDITORUM quale fuerit Judi<g ref="char:EOLhyphen"/>cium Summi Viri, ab omnibus Chriſtianis multis nomi<g ref="char:EOLhyphen"/>nibus colendi, Authoris Libri Sanctiſſimi, cui Titulus eſt, <hi>THE WHOLE D<g ref="char:V">Ʋ</g>TY OF MAN,</hi> Videant Lectores in Partitione 14 Libri iſtius celeberrimi; in quo, Titulo ſuo omnibus modis congruente, Doctrinae Chriſtianae Epitome accuratiſſima exhibetur.</p>
+               <p>Videntur mihi Viri quidam Probi, &amp; Eruditi in Sermonibus <hi>Politicis</hi> haud ſatis ſibi Caviſſe à Fraudi<g ref="char:EOLhyphen"/>bus hominum Regimini MONARCHICO Inimicorum, dum ſcilicet <hi>quaſi loquentes cum Vulgo</hi> concedere viden<g ref="char:EOLhyphen"/>tur <hi>Anglorum Regem non eſſe Solum Legiſlatorem:</hi> Hoc tantùm vellent dicere, Regem non poſſe <hi>Ferre Legem</hi> ſecundum hujus <hi>Regni Conſtitutionem,</hi> niſi <hi>Populo Aſ<g ref="char:EOLhyphen"/>ſentiente:</hi> Sed ex ipſorum verbis id callidè arripiunt <hi>Regiae Poteſtatis</hi> Adverſarii, quod illi Egregii Viri ne<g ref="char:EOLhyphen"/>quaquam vellent concedere, nempe Summam Pote<g ref="char:EOLhyphen"/>ſtatem <hi>Regi</hi> eſſe cum <hi>Magnatibus</hi> Communem, adeo ut Illi Convenientes rectè poſſint <hi>Poenas</hi> ſumere ab ip<g ref="char:EOLhyphen"/>ſo Rege <hi>Delinquente;</hi> quod ſi fieri Licitum eſſet, non magis Conſtare potuiſſet Natura Regiminis MO<g ref="char:EOLhyphen"/>NARCHICI, quàm <hi>
+                     <g ref="char:V">Ʋ</g>na Perſona</hi> poſſet eſſe <hi>Plu<g ref="char:EOLhyphen"/>res.</hi> Si Legem à Populo <hi>Rogatam Negandi</hi> Poteſtatem <hi>Rex</hi> non habuiſſet (fateor equidem) non eſſet <hi>Solus Legiſlator:</hi> ſed per iſtam Poteſtatem fit Evidentiſſi<g ref="char:EOLhyphen"/>mum <hi>Legem Ferendam pendere à Solâ Voluntate Regis,</hi>
+                  <pb n="10" facs="tcp:96463:6"/>
+quod certè nihil aliud eſt, quàm <hi>Regem eſſe Solum Legiſlatorem.</hi> Ita<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tam Abſurdum eſt dicere ipſum <hi>Anglorum Regem</hi> per aliquam <hi>Patriae Legem</hi> ob aliqua Delicta eſſe Puniendum, vel Populi Sui Obſequio an<g ref="char:EOLhyphen"/>tea Debito Privandum, quàm aliquem <hi>Delinquentem</hi> debere <hi>Poenas</hi> ſumere à Seipſo.</p>
+               <p>Utinam toti Terrarum Orbi tandem Affulgeat Lux hujus Veritatis quae in imis omnium Mortalium pectoribus aliquas exerit Scintillulas:</p>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </q>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:96463:6"/>
+               <head>Animadverſiones IN Execrabilem Libellum cui Titulus eſt, <hi>JOANNIS MILTONI</hi> Angli <hi>Pro Populo Anglicano, Defenſio Secunda, &amp;c.</hi>
+               </head>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>Def. S.</hi> p. 4.</bibl> QUid Patriae cujuſquam eſſe magis decori, aut gloriae poteſt, quàm Libertas non Civili tantùm Vitae, ſed divino etiam cultui reſtituta?</q>
+               </p>
+               <p>Egregia ſcilicet Populi Libertas in iſto <hi>Regno,</hi> ubi ipſe <hi>Rex Clementiſſimus</hi> à <hi>Rebellibus</hi> ſuperatus primò <hi>Carceri,</hi> deinde <hi>Morti</hi> traditur, moeſtiſſimo Populo <hi>Regi</hi> Suo omnibus Injuriis per Rabiem pluſquam <hi>Caninam,</hi> ac Furorem planè <hi>Satanicum</hi> ab Inimicis ſuis uſque ad Mortem exagitato fruſtra Ingemiſcente! Egregia Cultus Divini Reſtitutio eſt ultima S. <hi>Auctoritatis</hi> EPISCOPALIS Violatio, atque ipſius ORATIO<g ref="char:EOLhyphen"/>NES DOMINICAE, ac S. PSALMORUM Cultui Divino in Eccleſiis celebrando inſervientium Abolitio Deteſtabilis, &amp; in omne aevum Execranda!</p>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>P.</hi> 20.</bibl> Eſt <hi>Morus</hi> quidam, partim <hi>Scotus,</hi> partim <hi>Gallus,</hi> ne totâ hominis infamiâ gens una, aut regio nimium laboraret, homo improbus, &amp;c. <hi>P.</hi> 24. <hi>Mo<g ref="char:EOLhyphen"/>rus</hi> propugnandum ſuſcipit <hi>Salmaſium.</hi>
+                  </q>
+               </p>
+               <p>
+                  <pb n="12" facs="tcp:96463:7"/>
+Jam omnibus innoteſcit tam Falſum eſſe, quòd <hi>Mo<g ref="char:EOLhyphen"/>rus</hi> Auctor fuerit iſtius ingenioſiſſimi, ac piiſſimi Li<g ref="char:EOLhyphen"/>belli, cui Titulus eſt, <hi>Regii Sanguinis Clamor ad Coe<g ref="char:EOLhyphen"/>lum,</hi> quam ſit Verum DEUMOPT. MAX. Re<g ref="char:EOLhyphen"/>gii Sanguinis ad Coelum Clamantis Toto Orbe ſpe<g ref="char:EOLhyphen"/>ctante fuiſſe ULTOREM.</p>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>P.</hi> 47.</bibl> Cum datum mihi publicè eſſet illud in Defenſionem Regiam negotium, eodémque tem<g ref="char:EOLhyphen"/>pore, &amp; adverſa ſimul valetudine, &amp; oculo jam pe<g ref="char:EOLhyphen"/>ne altero amiſſo conflictarer, praediceréntque di<g ref="char:EOLhyphen"/>ſertè Medici, ſi hunc laborem ſuſcepiſſem, fore ut utrumque brevi amitterem, nihil iſtâ praemonitione deterritus, non Medici, ne <hi>Aeſculapii</hi> quidem <hi>Epi<g ref="char:EOLhyphen"/>daurii</hi> ex adyto vocem, ſed divinioris cujuſdam in<g ref="char:EOLhyphen"/>tus monitoris viderer mihi audire; duáſque ſor<g ref="char:EOLhyphen"/>tes fatali quodam nutu jam mihi propoſitas hinc Caecitatem, inde Officium; aut oculorum jacturam neceſſario faciendam, aut ſummum Officium de<g ref="char:EOLhyphen"/>ſerendum.</q>
+               </p>
+               <p>Nulli non hominum, quibus aliqua <hi>Probitatis</hi> emi<g ref="char:EOLhyphen"/>cat <hi>Scintillula,</hi> Sole clarius eluceſcit, MILTONI Offi<g ref="char:EOLhyphen"/>cium non fuiſſe, ſed <hi>Crimen,</hi> quòd id negotii ſuſce<g ref="char:EOLhyphen"/>perit, quod datum ſibi publicè fuiſſe dicit. <hi>Reo</hi> ipſo MILTONO Confitente, in Opere iſto peragendo, quod nos aſſerimus nihil aliud eſſe quàm ſummo <hi>Ar<g ref="char:EOLhyphen"/>tificio</hi> loboratam <hi>Sceleris ingentis</hi> Machinam, Oculos Amiſit MILTONUS, Juſtiſſimo Numine, Oculos Cor<g ref="char:EOLhyphen"/>poreos ab Iſto homine auferente, qui per ſummam <hi>Voluntatis</hi> Pravitatem ſibi ipſi ademit Animi <hi>Lumen.</hi> Nimirum ſic Affectatam Animi Caecitatem horrendâ Corporis Caecitate Punitam Providentia Divina Toti Orbi oſtendit.</p>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>P.</hi> 5.</bibl> Vae qui illudit nos. Non Te illuſimus, MILTONE, ſed votis ferventiſſimis optavimus, ut
+<pb n="13" facs="tcp:96463:7" rendition="simple:additions"/>
+Juſtum DEI Judicium ad Veram te adduxiſſet Poe<g ref="char:EOLhyphen"/>nitentiam.</q>
+               </p>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>P.</hi> 57.</bibl> Tu mihi ſic perge maledicere ut <hi>Cromvello</hi> pejor tibi ſim, quâ nullâ majore me laude afficere potuiſti.</q>
+               </p>
+               <p>
+                  <hi>En Monſtrum horrendum!</hi> Summâ Laude ſe affectum eſſe exiſtimat, eo quòd Peſſimo Mortalium CROM<g ref="char:EOLhyphen"/>VELLO Pejor eſſe exiſtimetur!</p>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>P.</hi> 94.</bibl> Caroli <hi>Regno</hi> in <hi>Rempublicam</hi> redacto, Con<g ref="char:EOLhyphen"/>cilium Statûs, quod dicitur, tum primum Autho<g ref="char:EOLhyphen"/>ritate Parlamenti conſtitutum ad ſe vocat, &amp;c.</q>
+               </p>
+               <p>
+                  <hi>Ethnici Romani</hi> ſolebant, quando Res ſuas <hi>Politicas</hi> maximè Turbatas cernebant, <hi>Diſſolvere Rempublicam</hi> Praeſentem, &amp; ad Aliam Supremae Poteſtatis Exer<g ref="char:EOLhyphen"/>cendae Rationem ſe convertere. Quâ ratione <hi>Roma Chriſtiana</hi> ſe ſubduxerit ab Illius Imperio, qui vocatur <hi>Imperator Romanorum,</hi> ipſa viderit. Quod ad <hi>Angli<g ref="char:EOLhyphen"/>am</hi> ſpectat, <hi>Exteris <g ref="char:V">Ʋ</g>niverſis</hi> volumus innoteſcere, PARLAMENTUM SINE REGE nihil aliud eſſe quàm CORPUS SINE CAPITE: Sed ſi <hi>Reverà</hi> REX ſuo ſe <hi>Abdicaverit</hi> Imperio, Ma<g ref="char:EOLhyphen"/>nifeſtum eſt Licere <hi>Populo Anglicano</hi> Se ſubditos exhi<g ref="char:EOLhyphen"/>bere Vero &amp; Legitimo hujus <hi>Regni</hi> Haeredi, atque illi perpetuum praeſtare Obſequium.</p>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>P.</hi> 103.</bibl> Acceptâ maximis de rebus decernendi Poteſtate.—</q>
+               </p>
+               <p>Unde, <hi>Parricida,</hi> Acceperunt Socii Tui, hanc Po<g ref="char:EOLhyphen"/>teſtatem? Certè <hi>Vi, &amp; Armis</hi> ſibi Arrogârunt Sum<g ref="char:EOLhyphen"/>mam Poteſtatem Infima Pars hominum <hi>Britannorum,</hi> ſed Nemo Mortalium, Nulla multitudo Jus habuit in Iſtos conferendi.</p>
+               <p>
+                  <pb n="14" facs="tcp:96463:8"/>
+                  <q>
+                     <bibl>
+                        <hi>P.</hi> 120.</bibl> Nec quiſquam pulchrius exiſtimat ho<g ref="char:EOLhyphen"/>ſtem ferire, quàm ſe atque alios coeleſtium cogni<g ref="char:EOLhyphen"/>tione rerum erudire, aut Bellicam magis quàm Evangelicam Militiam exercere.</q>
+               </p>
+               <p>Ad haec non aliâ ratione Reſponſum dabo, quàm rogando Lectorem ut egregium conſulat Libellum cui Titulus eſt, <hi>EVANGELI<g ref="char:V">Ʋ</g>M ARMA<g ref="char:EOLhyphen"/>T<g ref="char:V">Ʋ</g>M.</hi>
+               </p>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>P.</hi> 140.</bibl> Carolo perſuadetur, Carolo imponitur, Carolo illuditur, metus incutitur, ſpes vana oſten<g ref="char:EOLhyphen"/>ditur, velut praeda omnium communis tam ami<g ref="char:EOLhyphen"/>corum quàm hoſtium agitur, &amp; fertur Carolus. Aut haec à Scriptis ſuis tollant, aut ſagacitatem Caroli praedicare deſiſtant.</q>
+               </p>
+               <p>Haec (fateor) Speciem Veritatis habent aliqualem <hi>à Factis</hi> deſumptam, quaſi minùs Sagax fuiſſet Sapi<g ref="char:EOLhyphen"/>entiſſimus <hi>Carolus:</hi> Et certè fatendum eſt illum <hi>Fato</hi> quodam <hi>Singulari</hi> fuiſſe adductum ut minùs Sibi Ca<g ref="char:EOLhyphen"/>veret de Improbis <hi>Hominibus,</hi> dum de <hi>Carne &amp; Dia<g ref="char:EOLhyphen"/>bolo</hi> Sibi plurimùm Cavebat: ſcilicet <hi>Reipublicae,</hi> ſeu <hi>Populi Sui</hi> commodis ſerviendi ſtudio nimiùm Fervido addictus non rarò incidit in iſtiuſmodi Errorem, ut aequum eſſe putaret Aliena potiùs Sequi Conſilia, quàm in Suâ, Sanâ admodum, ac Prudentiſſimâ Sen<g ref="char:EOLhyphen"/>tentiâ Perſtare. <q>Hujuſmodi Dictum ab Ingenioſiſſimo viro olim fuiſſe prolatum memini: Alii viri egre<g ref="char:EOLhyphen"/>giè Sapientes evaſiſſent, ſi nimiâ Sapientiae ſuae Opi<g ref="char:EOLhyphen"/>nione non fuiſſent inflati; ſed CAROLUS fuiſ<g ref="char:EOLhyphen"/>ſet omnium Virorum Sapientiſſimus, modo Suam Perſpexiſſet Sapientiam.</q>
+               </p>
+               <p>Adverſa omnia, quae Viro planè Divino, CA<g ref="char:EOLhyphen"/>ROLO Noſtro, per Occaſionem Fidei Sagacibus Inimicis, vel Amicis Rerum, quae maximè conducunt
+<pb n="15" facs="tcp:96463:8"/>
+ad Majeſtatem Tuendam Imperitis adhibitae, vel aliâ quâcunque ratione obvenerunt, Ipſe, CHRISTO illum corroborante, convertit <hi>in Bona</hi> ſibi in Aeter<g ref="char:EOLhyphen"/>num perfruenda. Sanctiſſima Anima! Gratulor Tibi Aerumnas Tuas graviſſimas, Rerum omnium, quae aliis Regibus obvenerunt, Proſperarum affluentiâ potiores. Ab Hoſte Viſibili Occiſus de Toto Hoſtium Inviſibi<g ref="char:EOLhyphen"/>lium Exercitu Glorioſiſſimum agis Triumphum, DEO ipſo ſpectante cum omnibus Coelorum Incolis.</p>
+               <p>Cogitanti mihi nuper erumpentem apud Nos <hi>Par<g ref="char:EOLhyphen"/>ricidarum</hi> Antiquorum Rabiem ſub Nomine LUD<g ref="char:EOLhyphen"/>LOI <hi>Parricidae</hi> jactantem ſeſe, atque <hi>Auras Populares</hi> avidiſſimè captantem, aequum eſſe videtur, ut in Fine hujus Scriptionis noſtrae Benevolo Lectori exhibeantur haec verba Praeſtantiſſimi Viri in eo Libello, quem MILTONUS, &amp; SATANAS ſummo Odio proſe<g ref="char:EOLhyphen"/>quuntur, cui Titulus eſt, <hi>Regii Sanguinis Clamor ad Coelum.</hi> 
+                  <q>
+                     <bibl>
+                        <hi>P.</hi> 166.</bibl> Vindica tandem, Optime Maxi<g ref="char:EOLhyphen"/>me, tuum Verbum, Spiritum, &amp; Providentiam à tot Criminibus, quorum iſti Parricidae te defenſo<g ref="char:EOLhyphen"/>rem facere non erubeſcunt. Illi quidem Verbum tuum, &amp; Spiritum obtendunt, unico tamen ſuarum victoriarum teſtimonio confiſi, hui nimium in ple<g ref="char:EOLhyphen"/>beias animas efficaci. Tu igitur Deus Exercituum ex eodem fonte petitis argumentis proba tibi ſum<g ref="char:EOLhyphen"/>mè diſplicere pietatem ſcelera incruſtantem; malum apud te locum non invenire, quibuſcun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> figmentis infucatum; virum ſanguinarium, &amp; doloſum te abo<g ref="char:EOLhyphen"/>minari; te parentem eſſe Regum, Veri, &amp; Aequi aſſertorem, Eccleſiae Patremfamilias, clamorem in<g ref="char:EOLhyphen"/>nocui ſanguinis ad te perveniſſe. Molleſcat tandem ad Veritatis tuae radios praefracta perduellium con<g ref="char:EOLhyphen"/>tumacia. Laetentur juſti ad Juſtitiae tuae clarum jubar. Dicant ubique homines, <hi>Certè praemium est Juſto, certè DE<g ref="char:V">Ʋ</g>S est Judex Terrae.</hi>
+                  </q>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
